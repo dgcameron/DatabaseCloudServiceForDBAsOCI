@@ -53,9 +53,9 @@ If you already have an account or an active trial/free tier account, you may ski
 
 - Once the setup is complete you can move on to lab 100 by clicking on the Menu Icon in the upper left corner of the browser window. You're now ready to continue with Lab 100.
 
-![](images/WorkshopMenu.png)
+![](images/menu1.png)
 
-![](images/lab100.png)  
+![](images/menu2.png)  
 
 
 
