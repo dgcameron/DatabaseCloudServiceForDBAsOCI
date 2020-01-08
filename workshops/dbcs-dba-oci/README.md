@@ -8,14 +8,6 @@ Please click on the [Free Oracle Cloud Promotion](https://myservices.us.oraclecl
 
 ![](images/trial.png)
 
-## Navigate to Terraform Setup Steps for Self Guided Labs
-
-- Before you can proceed with the labs you must run setup steps.  There are two options - manual and Terraform.  The Terraform setup is recommended.  These steps will take approximately 60-90 minutes.  
-
-![](images/WorkshopMenu.png)
-
-  ![](images/setup.png) 
-
 ## Navigate to Lab 100
 
 - Once the setup is complete you can move on to lab 100 by clicking on the Menu Icon in the upper left corner of the browser window. You're now ready to continue with Lab 100.
