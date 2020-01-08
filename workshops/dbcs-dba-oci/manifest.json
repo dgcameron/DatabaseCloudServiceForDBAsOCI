@@ -9,25 +9,25 @@
                 "number": "100",
                 "filename": "SG-100.md",
                 "title": "Lab 100: Introduction and Setup",
-                "description": "Create services and setup account for workshop",
+                "description": "Create services and setup account for workshop"
             },
             {
                 "number": "200",
                 "filename": "SG-200.md",
                 "title": "Lab 200: Cloud Migration",
-                "description": "Explore some common use cases for moving your data from on-premise to the cloud",
+                "description": "Explore some common use cases for moving your data from on-premise to the cloud"
             },
             {
                 "number": "300",
                 "filename": "SG-300.md",
                 "title": "Lab 300: DBCS Maintenance",
-                "description": "Perform some common DBA tasks such as setting up security access and scaling out your instance.",
+                "description": "Perform some common DBA tasks such as setting up security access and scaling out your instance."
             },
             {
                 "number": "400",
                 "filename": "SG-400.md",
                 "title": "Lab 400: Using the Oracle Command Line Interface (CLI) to manage DBCS Instances",
-                "description": "Configure Oracle CLI and perform various DBA tasks with CLI",
+                "description": "Configure Oracle CLI and perform various DBA tasks with CLI"
             }
         ]
     }
