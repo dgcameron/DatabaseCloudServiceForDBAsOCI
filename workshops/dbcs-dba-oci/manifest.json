@@ -1,34 +1,27 @@
 {
-    "workshop": {
-        "title": "Database Cloud Services Workshop for OCI",
-        "description": "These labs will give you a basic understanding of the Oracle Database Cloud Service and many of the capabilities around administration and database development.  The labs will walk you through creating and accessing a new Database Cloud Service instance.  You will explore some common use cases for moving your data from on-premises to the cloud.  Next, you will use the Oracle Database Cloud Backup Module and RMAN to backup your on-premise data to the Oracle Public Cloud and then recover lost data.  Lastly, you will deploy an APEX application and adjust the firewall rules to support access to the application from the Internet using your browser, smart phone or tablet.",
-        "theme": "default",
-        "interactive":"https://launch.oracle.com/?dbcs_dba",
-        "labs": [
-            {
-                "number": "100",
-                "filename": "SG-100.md",
-                "title": "Lab 100: Introduction and Setup",
-                "description": "Create services and setup account for workshop"
-            },
-            {
-                "number": "200",
-                "filename": "SG-200.md",
-                "title": "Lab 200: Cloud Migration",
-                "description": "Explore some common use cases for moving your data from on-premise to the cloud"
-            },
-            {
-                "number": "300",
-                "filename": "SG-300.md",
-                "title": "Lab 300: DBCS Maintenance",
-                "description": "Perform some common DBA tasks such as setting up security access and scaling out your instance."
-            },
-            {
-                "number": "400",
-                "filename": "SG-400.md",
-                "title": "Lab 400: Using the Oracle Command Line Interface (CLI) to manage DBCS Instances",
-                "description": "Configure Oracle CLI and perform various DBA tasks with CLI"
-            }
-        ]
-    }
+  "lab": {
+    "title": "Database Cloud Services Workshop for OCI",
+    "modules": [
+      {
+        "filename": "README.md",
+        "title": "Lab Introduction"
+      },
+      {
+        "filename": "SG-100.md",
+        "title": "Module 1: Introduction and Setup"
+      },
+      {
+        "filename": "SG-200.md",
+        "title": "Module 2: Cloud Migration"
+      },
+      {
+        "filename": "SG-300.md",
+        "title": "Module 3: DBCS Maintenance"
+      },
+      {
+        "filename": "SG-400.md",
+        "title": "Module 4: Using the Oracle Command Line Interface (CLI) to manage DBCS Instances"
+      }
+    ]
+  }
 }
