@@ -1,6 +1,6 @@
 # Oracle Database Cloud Service Hands On Workshop
 
-Welcome to the Oracle Database Cloud Service Workshop. This particular version is based on Oracle's 'OCI' services, versus Oracle 'Classic' services. These labs will give you a basic understanding of the Oracle Database Cloud Service and many of the capabilities around administration and database management. Module 1 will introduce you to DBCS and show you how to create a Cloud Database. Module 2 will cover various data migration use cases, including pluggable database migration, tablespace migration, schema migration, and ad-hoc table copying between databases. Module 3 covers some common Database management activities. Module 4 show you how to use the Oracle Command Line Interface (CLI) commands to perform various tasks.  This workshop was built on and for version 19c of the database.
+Welcome to the Oracle Database Cloud Service Workshop. This particular version is based on Oracle's 'OCI' services, versus Oracle 'Classic' services. These labs will give you a basic understanding of the Oracle Database Cloud Service and many of the capabilities around administration and database management. Lab 1 will introduce you to DBCS and show you how to create a Cloud Database. Lab 2 will cover various data migration use cases, including pluggable database migration, tablespace migration, schema migration, and ad-hoc table copying between databases. Lab 3 covers some common Database management activities. Lab 4 show you how to use the Oracle Command Line Interface (CLI) commands to perform various tasks.  This workshop was built on and for version 19c of the database.
 
 ## Parts
 
@@ -14,9 +14,9 @@ Welcome to the Oracle Database Cloud Service Workshop. This particular version i
 
    ![](images/0/get-started-email.png)
 
-### **Part 2**: Navigate to Module 1
+### **Part 2**: Navigate to Lab 1
 
-1. [Click here](1-100.md) to navigate to Module 1. Alternatively, you can click the navigation menu icon in the upper-left corner of the browser window to see a list of modules in the lab.
+1. [Click here](1.md) to navigate to Lab 1. Alternatively, you can click the navigation menu icon in the upper-left corner of the browser window to see a list of modules in the lab.
 
 	 ![](images/0/lab-intro.png)
 
