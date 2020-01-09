@@ -7,19 +7,19 @@
         "title": "Lab Introduction"
       },
       {
-        "filename": "SG-100.md",
+        "filename": "1-100.md",
         "title": "Module 1: Introduction and Setup"
       },
       {
-        "filename": "SG-200.md",
+        "filename": "2-200.md",
         "title": "Module 2: Cloud Migration"
       },
       {
-        "filename": "SG-300.md",
+        "filename": "3-300.md",
         "title": "Module 3: DBCS Maintenance"
       },
       {
-        "filename": "SG-400.md",
+        "filename": "4-400.md",
         "title": "Module 4: Using the Oracle Command Line Interface (CLI) to manage DBCS Instances"
       }
     ]
