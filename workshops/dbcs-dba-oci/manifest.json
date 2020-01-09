@@ -1,27 +1,44 @@
 {
-  "lab": {
-    "title": "Database Cloud Services Workshop for OCI",
-    "modules": [
+  "tutorials": [
       {
+        "title": "Database Cloud Services Workshop for OCI Lab Introduction",
         "filename": "README.md",
-        "title": "Lab Introduction"
+        "partnumber": "Ennnnn_01",
+        "publisheddate": "1/31/2020",
+        "contentid": "12nnnn",
+        "filename": "README.md"
       },
       {
-        "filename": "1.md",
-        "title": "Module 1: Introduction and Setup"
+        "title": "Lab 1: Introduction and Setup",
+        "filename": "README.md",
+        "partnumber": "Ennnnn_01",
+        "publisheddate": "1/31/2020",
+        "contentid": "12nnnn",
+        "filename": "1.md"
       },
       {
-        "filename": "2.md",
-        "title": "Module 2: Cloud Migration"
+        "title": "Lab 2: Cloud Migration",
+        "filename": "README.md",
+        "partnumber": "Ennnnn_01",
+        "publisheddate": "1/31/2020",
+        "contentid": "12nnnn",
+        "filename": "2.md"
       },
       {
-        "filename": "3.md",
-        "title": "Module 3: DBCS Maintenance"
+        "title": "Lab 3: DBCS Maintenance",
+        "filename": "README.md",
+        "partnumber": "Ennnnn_01",
+        "publisheddate": "1/31/2020",
+        "contentid": "12nnnn",
+        "filename": "3.md"
       },
       {
-        "filename": "4.md",
-        "title": "Module 4: Using the Oracle Command Line Interface (CLI) to manage DBCS Instances"
+        "title": "Lab 3: Using the Oracle Command Line Interface (CLI) to manage DBCS Instances",
+        "filename": "README.md",
+        "partnumber": "Ennnnn_01",
+        "publisheddate": "1/31/2020",
+        "contentid": "12nnnn",
+        "filename": "4.md"
       }
     ]
-  }
 }
