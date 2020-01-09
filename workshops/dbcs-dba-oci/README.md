@@ -60,3 +60,13 @@ If you already have an account or an active trial/free tier account, you may ski
 
 
 
+### **Part 2**: Navigate to Module 1
+
+1. [Click here](1-create-an-apex-workspace.md) to navigate to Module 1. Alternatively, you can click the navigation menu icon in the upper-left corner of the browser window to see a list of modules in the lab.
+
+	 ![](images/0/lab-intro.png)
+
+2. Click **Module 1: Create an APEX Workspace**.
+  
+   ![](images/0/lab-contents.png)
+
