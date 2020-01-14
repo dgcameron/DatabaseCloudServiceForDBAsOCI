@@ -16,10 +16,8 @@ Welcome to the Oracle Database Cloud Service Workshop. This particular version i
 
 ### **Step 2**: Navigate to Lab 1
 
-1. [Click here](1.md) to navigate to Lab 1. Alternatively, you can click the navigation menu icon in the upper-left corner of the browser window to see a list of modules in the lab.
+- [Click here](1.md) to navigate to Lab 1. Alternatively, you can click the navigation menu icon in the upper-left corner of the browser window to see a list of modules in the lab.
 
 	 ![](images/0/lab-intro.png)
 
-2. Click **Module 1: Introduction and Workshop Setup**.
-  
-   ![](images/0/lab-contents.png)
+	 ![](images/0/lab-intro2.png)
