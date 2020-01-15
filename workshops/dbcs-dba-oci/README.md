@@ -12,12 +12,12 @@ Welcome to the Oracle Database Cloud Service Workshop. This particular version i
 
 3. Soon after requesting your trial you will receive the following email. Once you receive this email you can proceed to Part 2.
 
-   ![](images/0/get-started-email.png)
+   ![](images/0/get-started-email.png " ")
 
 ### **Step 2**: Navigate to Lab 1
 
 - [Click here](1.md) to navigate to Lab 1. Alternatively, you can click the navigation menu icon in the upper-left corner of the browser window to see a list of modules in the lab.
 
-	 ![](images/0/lab-intro.png)
+	 ![](images/0/lab-intro.png " ")
 
-	 ![](images/0/lab-intro2.png)
+	 ![](images/0/lab-intro2.png " ")
