@@ -19,7 +19,7 @@
         "filename": "2.md"
       },
       {
-        "title": "Lab 3: PDB, Tablespace, Schema and Table Migration Use Cases",
+        "title": "Lab 3: Tablespace, Schema and Table Migration Use Cases",
         "description": "Explore some common use cases for moving your data from on-premise to the cloud",
         "publisheddate": "1/31/2020",
         "filename": "3.md"
