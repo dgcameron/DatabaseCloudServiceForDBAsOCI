@@ -25,16 +25,10 @@
         "filename": "3.md"
       },
       {
-        "title": "Lab 4: DBCS Maintenance",
-        "description": "Perform some common DBA tasks such as setting up security access and scaling out your instance",
+        "title": "Lab 4: Data Recovery and the using the Command Line Interface to manage DBCS instances",
+        "description": "Recover lost data and use the Command Line Interface (CLI) to manage instances",
         "publisheddate": "1/31/2020",
         "filename": "4.md"
-      },
-      {
-        "title": "Lab 5: Using the Oracle Command Line Interface (CLI) to manage DBCS Instances",
-        "description": "Configure Oracle CLI and perform various DBA tasks with CLI",
-        "publisheddate": "1/31/2020",
-        "filename": "5.md"
       }
     ]
 }
